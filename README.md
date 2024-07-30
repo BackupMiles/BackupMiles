@@ -2,7 +2,7 @@
 
 Nice to meet you!\
 \
-I am a curious Software Developer, mainly working with Node, C#, React, Typescript and Next -- throw in a little bit of Rust somewhere too.\
+I am a curious Software Developer, mainly working with Node, C#, Rust, React, Typescript and Next\
 \
 Feel free to have a look around! 🚢
 
