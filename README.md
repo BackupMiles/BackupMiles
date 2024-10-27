@@ -2,7 +2,9 @@
 
 Nice to meet you!\
 \
-I am a curious Software Developer, mainly working with Node, C#, Rust, React, Typescript and Next\
+I am a curious Software Developer, mainly working with Node, C#, Rust, React, Typescript and Next.\
+When I'm done working, I dedicate a lot of time developing and designing my games.\
+I mainly use Unity and Unreal Engine 5, but I do have a game jam project done with Bevy, and some really short ones with Godot.\
 \
 Feel free to have a look around! 🚢
 
